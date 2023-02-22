@@ -1,1 +1,4 @@
-theme: tactile
+title: oscdump
+description: A simple command-line OSC server
+show_downloads: true
+theme: jekyll-theme-tactile
