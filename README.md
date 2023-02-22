@@ -34,3 +34,7 @@ You should start seeing OSC messages printed on the screen from the client.
 ### To Quit
 
 Press `Ctrl-C` to quit the program.
+
+## License
+
+MIT: Same as [the go-osc license](https://github.com/hypebeast/go-osc/blob/master/LICENSE).
